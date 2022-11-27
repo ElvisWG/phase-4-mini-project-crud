@@ -1,0 +1,2 @@
+class Spicee < ApplicationRecord
+end
